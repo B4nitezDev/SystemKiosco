@@ -1,0 +1,6 @@
+@SystemKiosco_HostAddress = http://localhost:5177
+
+GET {{SystemKiosco_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
